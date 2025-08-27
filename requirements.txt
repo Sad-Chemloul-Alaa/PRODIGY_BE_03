@@ -4,3 +4,7 @@ email-validator
 sqlalchemy
 alembic
 pydantic-settings
+pyjwt
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
